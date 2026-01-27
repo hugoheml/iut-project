@@ -23,6 +23,7 @@
     "@hugoheml/iut-encrypt": "^1.0.0",
     "exiting": "6.0.1",
     "joi": "17.x.x",
+    "json2csv": "^6.0.0-alpha.2",
     "mysql": "^2.18.1",
     "nodemailer": "^7.0.13",
     "objection": "2.x.x",
